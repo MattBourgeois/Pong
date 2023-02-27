@@ -33,7 +33,7 @@ ball.color("white")
 ball.penup()
 ball.goto(0,0 )
 ball.dx = 2
-ball.dy = 2
+ball.dy = -2
 
 pen = turtle.Turtle()
 pen.speed(0)
